@@ -1,3 +1,5 @@
+#this file contains functions that will be used in the project
+
 def somma(a: int,b: int) -> int:
     '''la funzione somma riceve due argomenti e ritorna la somma degli argomenti'''
     return a+b
