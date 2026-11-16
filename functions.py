@@ -13,3 +13,6 @@ def moltiplicazione(a,b):
 
 def quadrato(a):
     return a*a
+
+def division(a,b):
+    return a/b
