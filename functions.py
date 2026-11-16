@@ -6,4 +6,5 @@ def sottrazione(a,b):
     return a-b
 
 def moltiplicazione(a,b):
+    '''la funzione moltiplicazione riceve due argomenti e ritorna il loro prodotto'''
     return a*b
